@@ -1,0 +1,15 @@
+id_usuario,usuario,correo,rol,estado,motivo_rechazo
+US402,user_2,,operador,activo,correo_vacio
+US412,user_12,,admin,bloqueado,correo_vacio
+US420,user_20,,supervisor,inactivo,correo_vacio
+US429,user_29,,operador,inactivo,correo_vacio
+US433,user_33,,operador,bloqueado,correo_vacio
+US459,user_59,,operador,inactivo,correo_vacio
+US477,user_77,,admin,activo,correo_vacio
+US484,user_84,,supervisor,inactivo,correo_vacio
+US490,user_90,,analista,activo,correo_vacio
+US494,user_94,,supervisor,inactivo,correo_vacio
+US497,user_97,,operador,activo,correo_vacio
+US501,user_101,,supervisor,inactivo,correo_vacio
+US510,user_110,,auditor,inactivo,correo_vacio
+US516,user_116,,supervisor,activo,correo_vacio
